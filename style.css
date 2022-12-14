@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Zen Dots', cursive;
+}
+.button{
+  background-color:#07273d;
+  box-shadow:2px 2px;
+  text-shadow:1px 1px;
+  padding:20px;
+  width:66px;
+  margin:0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  curser:pointer;
+}
+.row{
+  margin:5px 0
+}
+.row input {
+  background-color:#dcebf5;
+  font-size:20px;
+    margin: 0;
+    padding: 10px 29px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
